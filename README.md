@@ -1,1 +1,1 @@
-# uran_png
+# uran_jpeg
